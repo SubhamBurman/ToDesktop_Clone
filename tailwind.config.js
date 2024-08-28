@@ -7,7 +7,8 @@ module.exports = {
         'primary': '#3238f2'
       },
       fontFamily:{
-        'display': 'Poppins, san-serif'
+        'display': ['Poppins, san-serif'],
+        'body': ['Inter', 'sans-serif']
       }
     },
   },
